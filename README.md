@@ -13,11 +13,7 @@ List<Region> regions = getRegions();
 ```
 ## Notes
 
-If the data is outdated, feel free to contribute.
-
-## Contributions
-
-Feel free to contribute! Just create a Pull Request :)
+If the data is outdated, feel free to contribute. :)
 
 ## Credits
 
